@@ -12,8 +12,7 @@ public class PrimeiroPrograma {
 		System.out.println("------------------------------------------------");
 		Locale loc = Locale.getDefault();
 		System.out.println("A linguagem do meu sistema é: ");
-		System.out.println(loc.getDisplayLanguage());
-		
+		System.out.println(loc.getDisplayLanguage());		
 
 	}
 }
