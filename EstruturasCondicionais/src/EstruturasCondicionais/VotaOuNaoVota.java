@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class VotaOuNaoVota {
 	public static void main(String[] main) {
 		Scanner teclado = new Scanner(System.in);
-		System.out.println("Em qual ano você nasceu");
+		System.out.println("Em qual ano você nasceu?");
 
 		int nasc = teclado.nextInt();
 		int i = (2021 - nasc);
