@@ -22,11 +22,7 @@ public class ProjetoLivro {
 		l[1].folhear(50);
 		l[1].avancarPag();
 		System.out.println(l[1].detalhes());
-		
-		l[2].abrir();
-		l[2].folhear(4);
-		l[2].avancarPag();
-		System.out.println(l[2].detalhes());
+	
 		
 	}
 
